@@ -1,0 +1,7 @@
+C:\MyStuff\Training\IshaEmailer\IshaEmailer\bin\Debug\IshaEmailer.exe.config
+C:\Users\mohammaa\Desktop\Backup\MyStuff\Training\IshaEmailer\IshaEmailer\bin\Debug\IshaEmailer.exe.config
+C:\Users\mohammaa\Desktop\Backup\MyStuff\Training\IshaEmailer\IshaEmailer\bin\Debug\IshaEmailer.exe
+C:\Users\mohammaa\Desktop\Backup\MyStuff\Training\IshaEmailer\IshaEmailer\bin\Debug\IshaEmailer.pdb
+C:\Users\mohammaa\Desktop\Backup\MyStuff\Training\IshaEmailer\IshaEmailer\obj\Debug\IshaEmailer.csprojResolveAssemblyReference.cache
+C:\Users\mohammaa\Desktop\Backup\MyStuff\Training\IshaEmailer\IshaEmailer\obj\Debug\IshaEmailer.exe
+C:\Users\mohammaa\Desktop\Backup\MyStuff\Training\IshaEmailer\IshaEmailer\obj\Debug\IshaEmailer.pdb
